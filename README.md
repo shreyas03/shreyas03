@@ -19,6 +19,8 @@ Python backend and AI/ML engineer. LLM agents, RAG pipelines, computer vision, a
 
 ### 🛠️ Full-Stack / Backend
 
+**[Trivia Stakes](https://github.com/shreyas03/trivia-stakes)**: Real-time multiplayer trivia auction game for 2–8 players (JavaScript, Vinext, Cloudflare Workers, D1). Features server-controlled scoring, private answers, and database-backed concurrency for bonus buzzers. Includes 40 automated tests and GitHub Actions CI. **[Play live](https://trivia-stakes.saishreyastikkireddi.chatgpt.site)**.
+
 **[Image-Board](https://github.com/shreyas03/Image-Board)**: Full-stack web app (Node.js, Express, MongoDB) with JWT authentication and bcrypt password hashing for user image uploads and retrieval.
 
 **[scorebook](https://github.com/shreyas03/scorebook)**: Live cricket scoring app (Dart) with ball-by-ball tracking, dynamic team management, and real-time cloud sync.
