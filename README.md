@@ -1,9 +1,6 @@
 ### Hi, I'm Sai Shreyas Tikkireddi 👋
 
 MS in Computer Science (University of Colorado Denver), based in Denver, CO.
-Looking for **Software Engineering / Backend Engineering / AI-ML Engineering** roles.
-
-Python backend and AI/ML engineer. LLM agents, RAG pipelines, computer vision, and full-stack development.
 
 ---
 
